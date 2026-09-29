@@ -18,7 +18,7 @@
 
 🚀 Projects & areas I work on:
 
-* **Jiranisoko** — developing technology solutions for a Kenyan hyperlocal marketplace and business ecosystem.
+* **Jiranisoko** —  took part in developing technology solutions for a Kenyan hyperlocal marketplace and business ecosystem.
 * **Multition** — exploring SaaS solutions for businesses and organizations across Africa.
 * **Personal projects** — experimenting with web applications, cloud infrastructure, automation, and emerging technologies.
 
