@@ -1,26 +1,51 @@
-👋 Hi, I’m @meshtirop1
----------------------------------
+## 👋 Hi, I’m @meshtirop1
 
-👀 I’m interested in:
--smart computing (computer engineering ) focusing on my ongoing education at kyungdong university  in south korea
-- Cybersecurity and digital forensics, leveraging my ongoing virtual education in the field from The Open University of Kenya.
-- Web application development, particularly using Django, as demonstrated in my role as a senior web developer at multition advertising company.
-- Educational technology and methodologies, drawn from my experience teaching mathematics and chemistry.
+💻 I’m interested in:
 
-🌱 I’m currently learning:
-- Cybersecurity and digital forensics at The Open University of Kenya, enhancing my skills to tackle modern digital challenges.
-- Computer Engineering (smart Computing) at Kyungdong University, focusing on integrating smart technologies into computing solutions.
+* **Software Engineering & Web Development** — building scalable web applications and business systems, with experience using Django, ASP.NET, and modern web technologies.
+* **Smart Computing** — with an academic background in Smart Computing / Computer Engineering from Kyungdong University in South Korea.
+* **Cybersecurity & Digital Forensics** — developing my knowledge of cybersecurity, digital investigation, and information security.
+* **Cloud, DevOps & Distributed Systems** — exploring containers, Docker, Linux, cloud infrastructure, CI/CD, and scalable application architectures.
+* **Artificial Intelligence & Automation** — interested in using AI to automate business processes and build practical technology solutions.
+* **Educational Technology** — combining my technology background with my previous experience in mathematics and chemistry education.
 
-💞️ I’m looking to collaborate on:
-- Projects related to web development, especially those aiming to utilize Django for innovative solutions.
-- Cybersecurity initiatives, where I can apply my theoretical knowledge to practical challenges.
-- Educational tools and applications that benefit from my background in teaching and my interest in technology.
+🌱 I’m currently working on:
+
+* **Business software and ERP systems**, including solutions for businesses, restaurants, schools, and other organizations.
+* **Web and mobile applications**, focusing on practical systems that solve real-world problems.
+* **Cloud infrastructure and DevOps**, including Docker, Linux servers, deployment, networking, and application architecture.
+* **AI-powered automation**, exploring how AI can improve business workflows and software development.
+
+🚀 Projects & areas I work on:
+
+* **Jiranisoko** — developing technology solutions for a Kenyan hyperlocal marketplace and business ecosystem.
+* **Multition** — exploring SaaS solutions for businesses and organizations across Africa.
+* **Personal projects** — experimenting with web applications, cloud infrastructure, automation, and emerging technologies.
+
+🤝 I’m looking to collaborate on:
+
+* Open-source software and developer tools.
+* Web and mobile application development.
+* SaaS, ERP, marketplace, and business automation projects.
+* Cybersecurity and digital forensics projects.
+* AI and automation initiatives.
+* Technology projects focused on solving practical problems in Africa and beyond.
 
 📫 How to reach me:
-- Email: mtirop345@gmail.com
-- Location: 46 4-gil Bongpo Gosung Gangwondo 24764, Sokcho, South Korea
+
+* Email: [mtirop345@gmail.com](mailto:mtirop345@gmail.com)
+* Website: https://mtirop.com
+* GitHub: https://github.com/meshtirop1
+
+🛠️ Technologies & tools:
+
+* **Languages:** Python, C#, JavaScript
+* **Frameworks:** Django, ASP.NET Core, Blazor
+* **Databases:** SQLite, PostgreSQL, MySQL
+* **DevOps & Cloud:** Docker, Linux, Nginx, Git, GitHub
+* **Other:** REST APIs, ERP systems, SaaS, automation, cybersecurity
 
 😄 Pronouns: He/Him
 
 ⚡ Fun fact:
-- Besides my passion for technology and education, I enjoy exploring the integration of technology in classroom settings, aiming to make learning more interactive and engaging.
+I enjoy turning real-world problems into software — especially business problems where technology can simplify processes, automate repetitive work, and make services more accessible.
