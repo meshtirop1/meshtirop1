@@ -25,14 +25,12 @@
 
 ## 👋 About me
 
-I'm a computer engineer and full-stack developer finishing a **B.Eng. in Computer Engineering (Smart Computing)** at **Kyungdong University, South Korea**, while studying **Cybersecurity & Digital Forensics** at **The Open University of Kenya**.
+I'm a computer engineer and full-stack developer graduated  from  **B.Eng. in Computer Engineering (Smart Computing)** at **Kyungdong University, South Korea**, while studying **Cybersecurity & Digital Forensics** at **The Open University of Kenya**.
 
 I build two kinds of things:
 
 - **Business software for real organisations** — marketplaces, ERPs, SaaS, invoicing and payment systems (M-Pesa, PayPal, crypto) for companies in Kenya and beyond.
-- **Applied deep learning for medicine** — clinical-waveform models, chest X-ray prediction, and honest offline-RL benchmarks on ICU data.
-
-Before engineering I taught mathematics and chemistry, which is why I care about explaining things clearly and about ed-tech.
+- **Applied deep learning for medicine** — clinical-waveform models, chest X-ray prediction, and honest offline-RL benchmarks on ICU data(insulin).
 
 ```text
 🔭 Now      → JiraniSoko (marketplace + Android/iOS), Jiranisoko Tech ERP (.NET 10), ICP-estimation research
